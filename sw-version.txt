@@ -3,7 +3,7 @@ This project was done using:
 Windows 10 Pro 10.0.19041 N/D build 19041
 WSL 2 with Ubuntu 18.04 
 Visual Studio Code 1.50.1
-Doker Desktop with Docker Engine v19.03.13
+Docker Desktop with Docker Engine v19.03.13
 Redis 6.0.9 
 Node.js v12.19.0
 Express.js 4.17.1
